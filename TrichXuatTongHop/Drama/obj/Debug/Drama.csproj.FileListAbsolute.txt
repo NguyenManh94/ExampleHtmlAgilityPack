@@ -1,0 +1,8 @@
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\bin\Debug\Drama.exe.config
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\bin\Debug\Drama.exe
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\bin\Debug\Drama.pdb
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\bin\Debug\HtmlAgilityPack.dll
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\bin\Debug\HtmlAgilityPack.pdb
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\bin\Debug\HtmlAgilityPack.xml
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\obj\Debug\Drama.exe
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\obj\Debug\Drama.pdb

@@ -1,0 +1,6 @@
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\TestGeneric\bin\Debug\TestGeneric.exe.config
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\TestGeneric\bin\Debug\TestGeneric.exe
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\TestGeneric\bin\Debug\TestGeneric.pdb
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\TestGeneric\obj\Debug\TestGeneric.csprojResolveAssemblyReference.cache
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\TestGeneric\obj\Debug\TestGeneric.exe
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\TestGeneric\obj\Debug\TestGeneric.pdb

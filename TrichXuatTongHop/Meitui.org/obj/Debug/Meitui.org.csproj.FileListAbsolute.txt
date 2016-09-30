@@ -1,0 +1,18 @@
+E:\Stages2- ReDev\Project\Processing_StringAdvanced\Meitui.org\Meitui.org\bin\Debug\Meitui.org.exe.config
+E:\Stages2- ReDev\Project\Processing_StringAdvanced\Meitui.org\Meitui.org\bin\Debug\Meitui.org.exe
+E:\Stages2- ReDev\Project\Processing_StringAdvanced\Meitui.org\Meitui.org\bin\Debug\Meitui.org.pdb
+E:\Stages2- ReDev\Project\Processing_StringAdvanced\Meitui.org\Meitui.org\bin\Debug\HtmlAgilityPack.dll
+E:\Stages2- ReDev\Project\Processing_StringAdvanced\Meitui.org\Meitui.org\bin\Debug\HtmlAgilityPack.pdb
+E:\Stages2- ReDev\Project\Processing_StringAdvanced\Meitui.org\Meitui.org\bin\Debug\HtmlAgilityPack.xml
+E:\Stages2- ReDev\Project\Processing_StringAdvanced\Meitui.org\Meitui.org\obj\Debug\Meitui.org.csprojResolveAssemblyReference.cache
+E:\Stages2- ReDev\Project\Processing_StringAdvanced\Meitui.org\Meitui.org\obj\Debug\Meitui.org.exe
+E:\Stages2- ReDev\Project\Processing_StringAdvanced\Meitui.org\Meitui.org\obj\Debug\Meitui.org.pdb
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\Meitui.org\Meitui.org\bin\Debug\Meitui.org.exe.config
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\Meitui.org\Meitui.org\obj\Debug\Meitui.org.exe
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\Meitui.org\Meitui.org\obj\Debug\Meitui.org.pdb
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\Meitui.org\Meitui.org\bin\Debug\Meitui.org.exe
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\Meitui.org\Meitui.org\bin\Debug\Meitui.org.pdb
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\Meitui.org\Meitui.org\bin\Debug\HtmlAgilityPack.dll
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\Meitui.org\Meitui.org\bin\Debug\HtmlAgilityPack.pdb
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\Meitui.org\Meitui.org\bin\Debug\HtmlAgilityPack.xml
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\Meitui.org\Meitui.org\obj\Debug\Meitui.org.csprojResolveAssemblyReference.cache

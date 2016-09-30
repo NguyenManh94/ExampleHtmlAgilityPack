@@ -1,0 +1,33 @@
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\bin\Debug\Drama.exe.config
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\bin\Debug\Drama.exe
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\bin\Debug\Drama.pdb
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\bin\Debug\HtmlAgilityPack.dll
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\bin\Debug\Newtonsoft.Json.dll
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\bin\Debug\HtmlAgilityPack.pdb
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\bin\Debug\HtmlAgilityPack.xml
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\obj\Debug\DramaImage.csprojResolveAssemblyReference.cache
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\obj\Debug\Drama.exe
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\obj\Debug\Drama.pdb
+E:\Project\Redev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\bin\Debug\Drama.exe.config
+E:\Project\Redev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\obj\Debug\Drama.exe
+E:\Project\Redev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\obj\Debug\Drama.pdb
+E:\Project\Redev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\bin\Debug\Drama.exe
+E:\Project\Redev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\bin\Debug\Drama.pdb
+E:\Project\Redev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\bin\Debug\HtmlAgilityPack.dll
+E:\Project\Redev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\bin\Debug\Newtonsoft.Json.dll
+E:\Project\Redev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\bin\Debug\HtmlAgilityPack.pdb
+E:\Project\Redev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\bin\Debug\HtmlAgilityPack.xml
+E:\Project\Redev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\obj\Debug\DramaImage.csprojResolveAssemblyReference.cache
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\bin\Debug\Drama.exe.config
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\bin\Debug\Drama.exe
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\bin\Debug\Drama.pdb
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\bin\Debug\HtmlAgilityPack.dll
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\bin\Debug\Newtonsoft.Json.dll
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\bin\Debug\HtmlAgilityPack.pdb
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\bin\Debug\HtmlAgilityPack.xml
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\obj\Debug\DramaImage.csprojResolveAssemblyReference.cache
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\obj\Debug\Drama.exe
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\Drama\obj\Debug\Drama.pdb
+E:\Project\Addvanced Redev\Asyn and Regex\Sample Regex\TrichXuatTongHop\Drama\bin\Debug\Drama.exe.config
+E:\Project\Addvanced Redev\Asyn and Regex\Sample Regex\TrichXuatTongHop\Drama\obj\Debug\Drama.exe
+E:\Project\Addvanced Redev\Asyn and Regex\Sample Regex\TrichXuatTongHop\Drama\obj\Debug\Drama.pdb

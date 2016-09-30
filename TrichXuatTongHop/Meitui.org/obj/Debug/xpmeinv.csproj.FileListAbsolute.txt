@@ -1,0 +1,33 @@
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\Meitui.org\Meitui.org\bin\Debug\Meitui.org.exe.config
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\Meitui.org\Meitui.org\bin\Debug\Meitui.org.exe
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\Meitui.org\Meitui.org\bin\Debug\Meitui.org.pdb
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\Meitui.org\Meitui.org\bin\Debug\HtmlAgilityPack.dll
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\Meitui.org\Meitui.org\bin\Debug\Newtonsoft.Json.dll
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\Meitui.org\Meitui.org\bin\Debug\HtmlAgilityPack.pdb
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\Meitui.org\Meitui.org\bin\Debug\HtmlAgilityPack.xml
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\Meitui.org\Meitui.org\bin\Debug\Newtonsoft.Json.xml
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\Meitui.org\Meitui.org\obj\Debug\xpmeinv.csprojResolveAssemblyReference.cache
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\Meitui.org\Meitui.org\obj\Debug\Meitui.org.exe
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\Meitui.org\Meitui.org\obj\Debug\Meitui.org.pdb
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\Meitui.org\bin\Debug\Meitui.org.exe.config
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\Meitui.org\bin\Debug\Meitui.org.exe
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\Meitui.org\bin\Debug\Meitui.org.pdb
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\Meitui.org\bin\Debug\HtmlAgilityPack.dll
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\Meitui.org\bin\Debug\Newtonsoft.Json.dll
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\Meitui.org\bin\Debug\HtmlAgilityPack.pdb
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\Meitui.org\bin\Debug\HtmlAgilityPack.xml
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\Meitui.org\bin\Debug\Newtonsoft.Json.xml
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\Meitui.org\obj\Debug\xpmeinv.csprojResolveAssemblyReference.cache
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\Meitui.org\obj\Debug\Meitui.org.exe
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\Meitui.org\obj\Debug\Meitui.org.pdb
+E:\Project\Addvanced Redev\Asyn and Regex\Sample Regex\TrichXuatTongHop\Meitui.org\bin\Debug\Meitui.org.exe.config
+E:\Project\Addvanced Redev\Asyn and Regex\Sample Regex\TrichXuatTongHop\Meitui.org\obj\Debug\Meitui.org.exe
+E:\Project\Addvanced Redev\Asyn and Regex\Sample Regex\TrichXuatTongHop\Meitui.org\obj\Debug\Meitui.org.pdb
+E:\Project\Addvanced Redev\Asyn and Regex\Sample Regex\TrichXuatTongHop\Meitui.org\bin\Debug\Meitui.org.exe
+E:\Project\Addvanced Redev\Asyn and Regex\Sample Regex\TrichXuatTongHop\Meitui.org\bin\Debug\Meitui.org.pdb
+E:\Project\Addvanced Redev\Asyn and Regex\Sample Regex\TrichXuatTongHop\Meitui.org\bin\Debug\HtmlAgilityPack.dll
+E:\Project\Addvanced Redev\Asyn and Regex\Sample Regex\TrichXuatTongHop\Meitui.org\bin\Debug\Newtonsoft.Json.dll
+E:\Project\Addvanced Redev\Asyn and Regex\Sample Regex\TrichXuatTongHop\Meitui.org\bin\Debug\HtmlAgilityPack.pdb
+E:\Project\Addvanced Redev\Asyn and Regex\Sample Regex\TrichXuatTongHop\Meitui.org\bin\Debug\HtmlAgilityPack.xml
+E:\Project\Addvanced Redev\Asyn and Regex\Sample Regex\TrichXuatTongHop\Meitui.org\bin\Debug\Newtonsoft.Json.xml
+E:\Project\Addvanced Redev\Asyn and Regex\Sample Regex\TrichXuatTongHop\Meitui.org\obj\Debug\xpmeinv.csprojResolveAssemblyReference.cache

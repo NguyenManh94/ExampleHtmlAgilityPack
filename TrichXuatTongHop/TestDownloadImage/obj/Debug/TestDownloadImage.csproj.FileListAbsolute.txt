@@ -1,0 +1,27 @@
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\Meitui.org\TestDownloadImage\bin\Debug\TestDownloadImage.exe.config
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\Meitui.org\TestDownloadImage\bin\Debug\TestDownloadImage.exe
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\Meitui.org\TestDownloadImage\bin\Debug\TestDownloadImage.pdb
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\Meitui.org\TestDownloadImage\bin\Debug\HtmlAgilityPack.dll
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\Meitui.org\TestDownloadImage\bin\Debug\HtmlAgilityPack.pdb
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\Meitui.org\TestDownloadImage\bin\Debug\HtmlAgilityPack.xml
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\Meitui.org\TestDownloadImage\obj\Debug\TestDownloadImage.csprojResolveAssemblyReference.cache
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\Meitui.org\TestDownloadImage\obj\Debug\TestDownloadImage.exe
+E:\Stages2- ReDev\Project\Tutorial_String\Sample Regex\Meitui.org\TestDownloadImage\obj\Debug\TestDownloadImage.pdb
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\TestDownloadImage\bin\Debug\TestDownloadImage.exe.config
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\TestDownloadImage\bin\Debug\TestDownloadImage.exe
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\TestDownloadImage\bin\Debug\TestDownloadImage.pdb
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\TestDownloadImage\bin\Debug\HtmlAgilityPack.dll
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\TestDownloadImage\bin\Debug\HtmlAgilityPack.pdb
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\TestDownloadImage\bin\Debug\HtmlAgilityPack.xml
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\TestDownloadImage\obj\Debug\TestDownloadImage.csprojResolveAssemblyReference.cache
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\TestDownloadImage\obj\Debug\TestDownloadImage.exe
+E:\Project\BasicRedev Start\Tutorial_String\Sample Regex\TrichXuatTongHop\TestDownloadImage\obj\Debug\TestDownloadImage.pdb
+E:\Project\Addvanced Redev\Asyn and Regex\Sample Regex\TrichXuatTongHop\TestDownloadImage\bin\Debug\TestDownloadImage.exe.config
+E:\Project\Addvanced Redev\Asyn and Regex\Sample Regex\TrichXuatTongHop\TestDownloadImage\obj\Debug\TestDownloadImage.exe
+E:\Project\Addvanced Redev\Asyn and Regex\Sample Regex\TrichXuatTongHop\TestDownloadImage\obj\Debug\TestDownloadImage.pdb
+E:\Project\Addvanced Redev\Asyn and Regex\Sample Regex\TrichXuatTongHop\TestDownloadImage\bin\Debug\TestDownloadImage.exe
+E:\Project\Addvanced Redev\Asyn and Regex\Sample Regex\TrichXuatTongHop\TestDownloadImage\bin\Debug\TestDownloadImage.pdb
+E:\Project\Addvanced Redev\Asyn and Regex\Sample Regex\TrichXuatTongHop\TestDownloadImage\bin\Debug\HtmlAgilityPack.dll
+E:\Project\Addvanced Redev\Asyn and Regex\Sample Regex\TrichXuatTongHop\TestDownloadImage\bin\Debug\HtmlAgilityPack.pdb
+E:\Project\Addvanced Redev\Asyn and Regex\Sample Regex\TrichXuatTongHop\TestDownloadImage\bin\Debug\HtmlAgilityPack.xml
+E:\Project\Addvanced Redev\Asyn and Regex\Sample Regex\TrichXuatTongHop\TestDownloadImage\obj\Debug\TestDownloadImage.csprojResolveAssemblyReference.cache
